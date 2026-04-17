@@ -1,0 +1,11 @@
+# Core (requerido)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Opcional: proxy en tiempo real
+# mitmproxy>=10.0.0
+
+# Opcional: backend IA Claude
+# anthropic>=0.40.0
+
+# Opcional: backend IA Ollama (solo necesitas requests, ya incluido)
