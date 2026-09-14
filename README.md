@@ -41,7 +41,7 @@ Remote Code Execution
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/nextjs-server-actions-scanner
+git clone https://github.com/mateobris/nextjs-server-actions-scanner
 cd nextjs-server-actions-scanner
 pip install -r requirements.txt
 ```
